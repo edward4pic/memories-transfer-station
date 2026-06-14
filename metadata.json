@@ -1,0 +1,6 @@
+{
+  "name": "回憶轉運站",
+  "description": "將二手斷捨離重新定義為「故事募資」與「夢想轉運」，有完善的前後端狀態管理與模擬沙盒。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
